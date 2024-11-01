@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront Gridder\n"
+"POT-Creation-Date: 2019-09-19 17:16+0200\n"
+"PO-Revision-Date: 2019-09-19 17:17+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: storefront-gridder.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: storefront-gridder.php:126 storefront-gridder.php:135
+msgid "Cheatin&#8217; huh?"
+msgstr "Stai barando&#8217; eh?"
+
+#: storefront-gridder.php:145
+msgid "Support"
+msgstr "Supporto"
+
+#: storefront-gridder.php:173
+#, php-format
+msgid ""
+"%sThanks for installing the Storefront Gridder. To get started, visit the "
+"%sCustomizer%s.%s %sOpen the Customizer%s"
+msgstr ""
+"%sThanks per l'installazione di Storefront Gridder. Per iniziare, visitare "
+"il %sCustomizer%s.%s %sAprire l'addetto alla personalizzazione%s"
+
+#: storefront-gridder.php:244
+msgid "Gridder Products Gallery"
+msgstr "Galleria di prodotti Gridder"
+
+#: storefront-gridder.php:299
+msgid "Number of products to show"
+msgstr "Numero di prodotti da mostrare"
+
+#: storefront-gridder.php:300
+msgid "Choose the number of products to show"
+msgstr "Scegliere il numero di prodotti da visualizzare"
+
+#: storefront-gridder.php:314
+msgid "Number of columns"
+msgstr "Numero di colonne"
+
+#: storefront-gridder.php:315
+msgid "Choose the number of columns"
+msgstr "Scegli Numero di Colonne"
+
+#: storefront-gridder.php:332
+msgid "Order by"
+msgstr "Ordina per"
+
+#: storefront-gridder.php:333
+msgid "Choose name or date"
+msgstr "Scegli il nome o la data"
+
+#: storefront-gridder.php:339
+msgid "Date"
+msgstr "Data"
+
+#: storefront-gridder.php:340
+msgid "Name"
+msgstr "Nome"
+
+#: storefront-gridder.php:349
+msgid "Order"
+msgstr "Ordine"
+
+#: storefront-gridder.php:350
+msgid "Choose Latest or Oldest"
+msgstr "Scegliere Più recente o meno recente"
+
+#: storefront-gridder.php:356
+msgid "Latest"
+msgstr "Ultimi"
+
+#: storefront-gridder.php:357
+msgid "Oldest"
+msgstr "Vecchi"
+
+#: storefront-gridder.php:366
+msgid "Display product price"
+msgstr "Visualizza il prezzo del prodotto"
+
+#: storefront-gridder.php:367
+msgid "Choose show or hide to display the product price"
+msgstr "Scegliere Mostra o Nascondi per visualizzare il prezzo del prodotto"
+
+#: storefront-gridder.php:373 storefront-gridder.php:390
+#: storefront-gridder.php:407 storefront-gridder.php:425
+msgid "Hide"
+msgstr "Nascondi"
+
+#: storefront-gridder.php:374 storefront-gridder.php:391
+#: storefront-gridder.php:408 storefront-gridder.php:424
+msgid "Show"
+msgstr "Mostra"
+
+#: storefront-gridder.php:383
+msgid "Display add to cart button(ajax)"
+msgstr "Visualizza pulsante Aggiungi al carrello (ajax)"
+
+#: storefront-gridder.php:384
+msgid "Choose show or hide ajax add to cart button"
+msgstr "Scegli Mostra o nascondi ajax aggiungi al pulsante del carrello"
+
+#: storefront-gridder.php:400
+msgid "Display View Product button"
+msgstr "Display View Pulsante Prodotto"
+
+#: storefront-gridder.php:401
+msgid "Choose show or hide for View Product button "
+msgstr "Scegliere Mostra o nascondi per il pulsante Visualizza prodotto "
+
+#: storefront-gridder.php:418
+msgid "Mobile Display"
+msgstr "Visualizza Mobile"
+
+#: storefront-gridder.php:547
+msgid "Add to cart"
+msgstr "Aggiungi al carrello"
+
+#: storefront-gridder.php:550
+msgid "View Product"
+msgstr "Visualizza Prodotto"
+
+#. Plugin Name of the plugin/theme
+msgid "Storefront Gridder"
+msgstr "Griglia dello Storefront"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://disenialia.com/storefront/storefront-gridder/storefront-gridder.zip"
+msgstr ""
+"https://disenialia.com/storefront/storefront-gridder/storefront-gridder.zip"
+
+#. Description of the plugin/theme
+msgid ""
+"Add gridder to your Storefront and display a grid of products with an "
+"expandable zone for details."
+msgstr ""
+"Aggiungi gridder al tuo Storefront e visualizza una griglia di prodotti "
+"con una zona espandibile per i dettagli."
+
+#. Author of the plugin/theme
+msgid "ulisesfreitas"
+msgstr "ulisesfreitas"
+
+#. Author URI of the plugin/theme
+msgid "https://disenialia.com/"
+msgstr "https://disenialia.com/"
